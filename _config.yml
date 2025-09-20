@@ -1,6 +1,14 @@
 title: PU2AAJ JARIO
 logo: /assets/img/logo.png
-description: Jario PU2AAJ em modo simplex VHF 146.580Mhz. 
+description: Em modo simplex VHF 146.580Mhz. 
+
+github.is_callsig: PU2AAJ
+github.is_cb: PX9I6147
+
 show_downloads: false
+github.is_project_page: false
+github.is_user_page: false
+github.is_project_page: false
+
 google_analytics:
 theme: jekyll-theme-minimal
