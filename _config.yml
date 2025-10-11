@@ -4,6 +4,7 @@ description: Em modo simplex VHF 146.580Mhz.
 
 callsig: PU2AAJ
 cb: PX9I6147
+grid: GH64bf
 
 show_downloads: false
 project_page: false
