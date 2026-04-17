@@ -21,5 +21,5 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 * * *
 
 ```
-JARIO classe C PU2AAJ em CB Faixa do Cidadão PX9I6147.
+JARIO classe B PT2IB em CB Faixa do Cidadão PX9I6147.
 ```
